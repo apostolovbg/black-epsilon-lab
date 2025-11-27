@@ -6,8 +6,8 @@
 
 <p align="center">
   <!-- Replace these filenames with the actual ones from docs/images -->
-  <img src="docs/images/shop-overview-1.jpg" width="45%" alt="Shop Overview 1"/>
-  <img src="docs/images/shop-overview-2.jpg" width="45%" alt="Shop Overview 2"/>
+  <img src="https://github.com/apostolovbg/black-epsilon-lab/blob/main/docs/images/IMG_4528.jpeg" width="45%" alt="Shop Overview 1"/>
+  <img src="https://github.com/apostolovbg/black-epsilon-lab/blob/main/docs/images/IMG_4529.jpeg" width="45%" alt="Shop Overview 2"/>
 </p>
 
 ---
