@@ -102,7 +102,7 @@ Typical uses:
 
 <p align="center">
   <!-- Microscopy Station -->
-  <img src="https://github.com/apostolovbg/black-epsilon-lab/blob/main/images/IMG_4567.jpeg" width="60%" alt="Microscope Station"/>
+  <img src="https://github.com/apostolovbg/black-epsilon-lab/blob/main/images/IMG_4424.jpeg" width="60%" alt="Microscope Station"/>
 </p>
 
 ---
