@@ -194,7 +194,7 @@ This is not just “I put some machines in a room” — the room itself is a pr
 
 - Found and fixed the **external cause** of a water-damaged wall
 - Cut out and replaced **soaked drywall** - a reconstructive "surgery" that went extremely well
-- Routed new **electrical channels** and 4mmˆ2 conduit around the perimeter and installed numerous 16A outlets
+- Routed new **electrical channels** and 4mm² conduit around the perimeter and installed numerous 16A outlets
 - Closed everything with filler, replastered, primed and painted in latex and then white alkyd
 - Replaced the **ceiling grid panels**, repainted the grid, installed new LED lighting
 - Built a **separating wall**, adapted and installed a reclaimed door between office and shop
