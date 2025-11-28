@@ -75,8 +75,9 @@ Typical use cases:
 - Aligning setups and fixtures before cutting
 
 <p align="center">
-  <!-- Replace filename -->
-  <img src="docs/images/metrology-corner.jpg" width="60%" alt="Metrology Corner"/>
+  <!-- Metrology Corner -->
+  <img src="https://github.com/apostolovbg/black-epsilon-lab/blob/main/images/IMG_3119.jpeg" width="45%" alt="Metrology Corner"/>
+  <img src="https://github.com/apostolovbg/black-epsilon-lab/blob/main/images/IMG_3404.jpeg" width="45%" alt="Gage Blocks"/>
 </p>
 
 ---
@@ -100,7 +101,7 @@ Typical uses:
 - Capturing images for **failure analysis** and documentation
 
 <p align="center">
-  <!-- Replace filename -->
+  <!-- Microscopy Station -->
   <img src="https://github.com/apostolovbg/black-epsilon-lab/blob/main/images/IMG_4567.jpeg" width="60%" alt="Microscope Station"/>
 </p>
 
