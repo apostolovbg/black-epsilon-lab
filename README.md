@@ -49,11 +49,11 @@ The lab is set up for small, precise, one-off or short-run work rather than heav
   - **Belt + disc sander** and other finishing tools
 
 - **General tools**
-  - Multiple heavy red/grey benches
+  - Multiple heavy workbenches
   - Vises, clamps, files, saws, hand tools
   - Oxy-propane torch for cutting/welding
 
-Focus: **precision parts and fixtures** — adapters, bushings, spacers, brackets, housings — where geometry and fit matter more than volume.
+Focus: **precision parts and fixtures** - adapters, bushings, spacers, brackets, housings - where geometry and fit matter more than volume.
 
 ---
 
