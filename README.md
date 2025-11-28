@@ -1,6 +1,6 @@
 # Black Epsilon Lab
 
-**Black Epsilon Lab** is my private precision engineering & AI lab in Sofia, Bulgaria — a ~50 m² space that combines a small machine shop, metrology and microscopy, custom power & network infrastructure, and a dev corner for software and AI-assisted work.
+**Black Epsilon Lab** is my private precision engineering & AI lab in Sofia, Bulgaria - a 50 m² space that combines a small machine shop, metrology and microscopy, custom power & network infrastructure, and a dev corner for software and AI-assisted work.
 
 > Built end-to-end by one person: electricals, drywall, plumbing, finishing, lighting design, machine layout, and tooling.
 
