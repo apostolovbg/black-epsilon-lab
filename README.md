@@ -16,11 +16,11 @@
 
 - **Location:** Sofia, Bulgaria  
 - **Owner:** Apostol Valentinov Apostolov (**Black Epsilon Ltd.**)  
-- **Area:** ~50 m² total:
-  - Front **office** (street-level, light blue walls) with desk and visitor chair
+- **Area:** ~50 m² total, a one-storey building at street level:
+  - Front **office** with a desk and a working chair, plus a visitor chair
   - Main **shop / lab** (white walls, tiled floor, machines and benches)
-  - Small **storage/service** area
-  - **Bathroom**
+  - Small **storage/service** area with a water heater, the electrical panel and some ugly things 
+  - **Bathroom**, complete with a shower (the water distribution manifold and meter live here as well)
 
 The shop is intentionally finished as a **white-walled lab**, not a greasy garage: clean surfaces, tiled floor, bright ceiling panels, proper lighting, and everything on solid benches.
 
