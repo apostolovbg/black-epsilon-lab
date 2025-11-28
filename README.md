@@ -76,8 +76,8 @@ Typical use cases:
 
 <p align="center">
   <!-- Metrology Corner -->
-  <img src="https://github.com/apostolovbg/black-epsilon-lab/blob/main/images/IMG_3119.jpeg" width="45%" alt="Metrology Corner"/>
-  <img src="https://github.com/apostolovbg/black-epsilon-lab/blob/main/images/IMG_3404.jpeg" width="45%" alt="Gage Blocks"/>
+  <img src="https://github.com/apostolovbg/black-epsilon-lab/blob/main/images/IMG_3119.jpeg" width="30%" alt="Metrology Corner"/>
+  <img src="https://github.com/apostolovbg/black-epsilon-lab/blob/main/images/IMG_3404.jpeg" width="30%" alt="Gage Blocks"/>
 </p>
 
 ---
