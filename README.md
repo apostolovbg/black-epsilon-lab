@@ -33,12 +33,12 @@ The shop is intentionally finished as a **white-walled lab**, not a greasy garag
 The lab is set up for small, precise, one-off or short-run work rather than heavy production.
 
 - **Manual machining**
-  - Bench **lathe** – turning, facing, boring, simple threading
+  - Bench **lathe** – turning, facing, boring, threading (incl. non-standard pitch)
   - Bench **mill** – slotting, drilling, light milling operations
   - **Drill press** / column drill
 
 - **Small CNC**
-  - Desktop **CNC router** (originally an engraver) for:
+  - Desktop **CNC router** for:
     - 2.5D machining
     - Engraving in metals and plastics
     - Light routing / pattern work
@@ -51,7 +51,7 @@ The lab is set up for small, precise, one-off or short-run work rather than heav
 - **General tools**
   - Multiple heavy red/grey benches
   - Vises, clamps, files, saws, hand tools
-  - Oxy-based gas equipment for cutting/welding
+  - Oxy-propane torch for cutting/welding
 
 Focus: **precision parts and fixtures** — adapters, bushings, spacers, brackets, housings — where geometry and fit matter more than volume.
 
@@ -61,11 +61,11 @@ Focus: **precision parts and fixtures** — adapters, bushings, spacers, bracket
 
 A dedicated metrology corner allows proper verification instead of “by eye” guessing.
 
-- **Surface plate** on its own stand
-- **Gauge blocks** and reference blocks
+- **Surface plate** 300x300x30mm, certified flatness down to 4 microns
+- **Gauge blocks** and reference blocks, calibrated to 0.1mm and certified
 - Digital and dial **calipers**
 - **Micrometers** (outside, depth, etc.)
-- **Dial indicators** with magnetic bases (standard and articulated arms)
+- **Dial (and test) indicators** with magnetic bases (standard and articulated arms)
 - Parallels, 1-2-3 blocks, angle gauges, levels and other layout tools
 
 Typical use cases:
@@ -101,7 +101,7 @@ Typical uses:
 
 <p align="center">
   <!-- Replace filename -->
-  <img src="docs/images/microscope-station.jpg" width="60%" alt="Microscope Station"/>
+  <img src="https://github.com/apostolovbg/black-epsilon-lab/blob/main/images/IMG_4567.jpeg" width="60%" alt="Microscope Station"/>
 </p>
 
 ---
@@ -112,27 +112,28 @@ The infrastructure was designed and installed entirely by hand:
 
 - **Power**
   - 50 A / 240 V supply
-  - Distribution panel on the shop wall
-  - New circuits and outlets routed around the room (channels cut in the drywall, then closed, replastered and painted)
+  - Distribution panel redesigned, circuit breakers replaced and reassigned
+  - New circuits and outlets routed around the room - channels cut in the drywall, then closed, replastered and painted
+  as if it has never happened, see photos in [renovation](https://github.com/apostolovbg/black-epsilon-lab/tree/main/images/renovation) gallery
 
 - **Lighting**
 
   Carefully zoned lighting to avoid the classic “single blinding lamp” workshop:
 
-  - Bright overhead LED panels:
-    - Zone for the **lathe & mill** bench
+  - Bright overhead 4000K LED panels:
+    - Zone for the **lathe & mill** benches
     - Zone for the **window-side** wall and general-purpose bench
   - Low-intensity 5 W lights for:
     - Comfortable evening presence
     - Screen work without glare
   - Directed task lighting:
-    - Spot for the **surface plate**
+    - Spot for the **surface plate** and **metrology table**
     - Spot for the **main GP bench**
   - **Hidden LED strips** along tool walls above benches for extra local light
 
 In the **front office**:
 
-- One warm (3000 K) and one neutral (4000 K) light on the ceiling, for both relaxed and focused work.
+- One 5W warm (3000 K) and one 10W neutral (4000 K) light on the ceiling, for both relaxed and focused work.
 
 Result: you can light just the area you’re working in — from “surgical bright over the machine” to “soft ambient while watching something”.
 
@@ -153,16 +154,16 @@ This keeps the space closer to “lab clean” than “oil pit” and makes it r
 There is a small but capable network and computing setup:
 
 - **Rack**
-  - 16U rack
-  - Rack switch
+  - 12U rack
+  - Rack-mounted switch
   - PDU
   - Legacy rack server (currently unused due to length, kept as spare/experimental hardware)
 
 - **Workstations**
   - PC for the microscope station
   - Dev/office PC in the front room
-  - PC / screen in the shop
-  - TV on the shop wall for diagrams, docs, visualisations
+  - PC hidden in the shop wall, screen above CNC router - used for CAM and experimentation
+  - TV on the shop wall for visualizations, education and entertainment
 
 - **Network design**
   - Segmented lab network, **inspired by zero-trust**
@@ -191,15 +192,15 @@ Typical things it’s good at:
 This is not just “I put some machines in a room” — the room itself is a project.
 
 - Found and fixed the **external cause** of a water-damaged wall
-- Cut out and replaced **soaked drywall** with water-resistant board
-- Routed new **electrical channels** around the perimeter and installed outlets
-- Closed everything with filler, replastered, primed and painted in white alkyd
+- Cut out and replaced **soaked drywall** - a reconstructive "surgery" that went extremely well
+- Routed new **electrical channels** and 4mmˆ2 conduit around the perimeter and installed numerous 16A outlets
+- Closed everything with filler, replastered, primed and painted in latex and then white alkyd
 - Replaced the **ceiling grid panels**, repainted the grid, installed new LED lighting
-- Built a **separating wall** and installed a reclaimed door between office and shop
-- Installed plumbing and the large **ceramic sink**
-- Designed bench and machine layout for realistic workflows
+- Built a **separating wall**, adapted and installed a reclaimed door between office and shop
+- Extended PE plumbing from bathroom to bring cold and hot water supply to shop and installed the large **ceramic sink**
+- Designed bench and machine layout for realistic workflows (some things found their places themselves over time)
 
-All done solo, learning multiple trades (electrical, drywall, masonry, finishing) along the way.
+All done solo, learning or exercizing multiple trades (electrical, drywall, masonry, plumbing, finishing, among others) along the way.
 
 ---
 
@@ -211,9 +212,9 @@ Black Epsilon Lab exists to bridge:
 - **Abstract structure** – equations, simulations, software like the Copernican Suite  
 - **Human cognition** – languages, AI, and the urge to understand and build
 
-Most of the “architecture” for the room lived in a **whiteboard and in my head** — informal CAD with real-world feedback. Formal CAD is for parts and fixtures; the space itself was iterated in full scale.
+Most of the “architecture” for the room lived on a **whiteboard and in my head** — informal CAD with real-world feedback. Formal CAD is for parts and fixtures; the space itself was iterated in full scale.
 
-> TL;DR: I use my head as my favourite CAD software.
+> TL;DR: I use my head as my favourite software and my hands as my favorite hardware. The rest is just tools. 
 
 ---
 
@@ -227,7 +228,5 @@ Most of the “architecture” for the room lived in a **whiteboard and in my he
 
 ---
 
-## 📸 More Photos
-
-To keep the main README readable, additional images can live in `docs/images/` and be referenced from here or from a dedicated `docs/` page.
+## 📸 More Photos Coming Soon!
 
