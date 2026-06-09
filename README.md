@@ -62,7 +62,7 @@ Focus: **precision parts and fixtures** - adapters, bushings, spacers, brackets,
 A dedicated metrology corner allows proper verification instead of “by eye” guessing.
 
 - **Surface plate** 300x300x30mm, certified flatness down to 4 microns
-- **Gauge blocks** and reference blocks, calibrated to 0.1mm and certified
+- **Gauge blocks** and reference blocks, calibrated to 0.001mm and certified
 - Digital and dial **calipers**
 - **Micrometers** (outside, depth, etc.)
 - **Dial (and test) indicators** with magnetic bases (standard and articulated arms)
